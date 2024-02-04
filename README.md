@@ -1,8 +1,8 @@
-1. Convert hex to base64
+1. Convert hex to base64: HexToBase64.py
 
-2. Fixed XOR
+2. Fixed XOR: FixedXOR.py
 
-3. Single-byte XOR cipher
+3. Single-byte XOR cipher: SingleByte.py
 
 4. Detect single-character XOR
 
